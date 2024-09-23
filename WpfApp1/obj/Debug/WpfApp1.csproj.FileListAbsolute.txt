@@ -1,0 +1,76 @@
+D:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\WpfApp1\WpfApp1\obj\Debug\Add.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\Circle.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\Delets.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\Add.baml
+D:\WpfApp1\WpfApp1\obj\Debug\Circle.baml
+D:\WpfApp1\WpfApp1\obj\Debug\Delets.baml
+D:\WpfApp1\WpfApp1\obj\Debug\App.baml
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\Add.g.cs
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\Circle.g.cs
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\Delets.g.cs
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\App.baml
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\Add.baml
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\Circle.baml
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\Delets.baml
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\Square.g.cs
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\Triangle.g.cs
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\Square.baml
+A:\Users\tamsu\Downloads\Project ปี2\WpfApp1\WpfApp1\obj\Debug\Triangle.baml
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\Add.g.cs
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\Circle.g.cs
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\Delets.g.cs
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\Square.g.cs
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\Triangle.g.cs
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\Add.baml
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\Circle.baml
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\Delets.baml
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\Square.baml
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\Triangle.baml
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\hp\Source\Repos\Calculator\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

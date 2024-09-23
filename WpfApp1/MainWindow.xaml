@@ -1,0 +1,118 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Height="700" 
+        Width="500"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        AllowsTransparency="True"
+        Background="Transparent">
+
+    <!--background -->
+    <Border Background="#fff"
+            CornerRadius="30"
+            BorderThickness="15"
+            BorderBrush="DarkGray">
+
+        <!--Section -->
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <!-- button Close -->
+            <StackPanel Grid.Row="0"
+                        Width="40"
+                        Height="40"
+                        VerticalAlignment="Top"
+                        HorizontalAlignment="Right"
+                        Margin="15">
+                <Button Cursor="Hand"
+                        Click="Button_Click">
+                    <Button.Template>
+                        <ControlTemplate>
+                            <Image Source="img/x-button.png"/>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </StackPanel>
+            <!-- TextBlox -->
+            <StackPanel Grid.Row="1"
+                        Width="400"
+                        Margin="-20,-30,90,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Grid.Column="0"
+                                Width="90"
+                                VerticalAlignment="Center"
+                                HorizontalAlignment="Right">
+                        <Image Source="img/calculator.png"
+                               Width="90"
+                               Height="90"/>
+                    </StackPanel>
+                    <StackPanel Grid.Column="1"
+                                Width="200"
+                                Height="100"
+                                HorizontalAlignment="Left">
+                        <TextBlock Text="Program"
+                                   FontSize="50"
+                                   FontWeight="Bold"
+                                   Padding="0,10,0,0"
+                                   Foreground="#F79540"/>
+
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+            <!-- button  -->
+            <StackPanel Grid.Row="2"
+                        Background="Transparent"
+                        Margin="0,-30,0,0">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <Button Grid.Row="0"
+                            Style="{DynamicResource ButtonWindow_OpenAdd}"
+                            Content="บวก"
+                            Cursor="Hand"
+                            Click="Button_Click_1"/>
+                    <Button Grid.Row="1"
+                            Style="{DynamicResource ButtonWindow_OpenDelets}"
+                            Content="ลบ"
+                            Cursor="Hand"
+                            Click="Button_Click_2"/>
+                    <Button Grid.Row="2"
+                            Style="{DynamicResource ButtonWindow_OpenCircle}"
+                            Content="หาพื้นที่วงกลม"
+                            Cursor="Hand"
+                            Click="Button_Click_3"/>
+                    <Button Grid.Row="3"
+                            Style="{DynamicResource ButtonWindow_OpenSquare}"
+                            Content="หาพื้นที่สี่เหลี่ยม"
+                            Cursor="Hand"
+                            Click="Button_Click_4"/>
+                    <Button Grid.Row="4"
+                            Style="{DynamicResource ButtonWindow_OpenTriangle}"
+                            Content="หาพื้นที่สามเหลี่ยม"
+                            Cursor="Hand"
+                            Click="Button_Click_5"/>
+                </Grid>
+            </StackPanel>
+        </Grid>
+    </Border>
+
+</Window>
